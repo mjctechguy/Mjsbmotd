@@ -1,2 +1,3 @@
 # Mjsbmotd
-A Basic MOTD with two way to show content  URL and HTML
+A Basic MOTD with two ways to show content  URL and HTML
+    
